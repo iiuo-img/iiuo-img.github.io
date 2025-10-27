@@ -1,5 +1,4 @@
-# iiuo-img.github.io  
-**It Is Unique Official – Image Placeholder / Legacy Site**
+# It Is Unique Official – Image Placeholder / Legacy Site
 
 ---
 
